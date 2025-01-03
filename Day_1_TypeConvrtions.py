@@ -64,7 +64,7 @@ print(b)
 dict_1=dict(zip(x,x1))
 print(dict_1)'''
 
-x={1,2,3,4,5}
+'''x={1,2,3,4,5}
 y=tuple(x)
 print(y)
 z=list(x)
@@ -73,4 +73,6 @@ x1={1,2,3,4,5}
 b=dict.fromkeys(x,x1)
 print(b)
 dict_1=dict(zip(x,x1))
-print(dict_1)
+print(dict_1)'''
+
+
