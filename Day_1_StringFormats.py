@@ -1,6 +1,6 @@
 #String Formats
 
-#Modulus
+#Modulus --->%
 
 #old style
 name="Eswar"
