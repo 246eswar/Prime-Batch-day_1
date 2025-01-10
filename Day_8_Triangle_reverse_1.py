@@ -58,22 +58,3 @@ for i in range(n,0,-1):
         print(num,end=" ")
         num-=1
     print()'''
-#9. A,BC,DEF,.....
-#error
-n=int(input("Enter the number: "))
-ch=chr('A')
-for i in range(1,n+1):
-    for j in range(1,i+1):
-        print(chr(ch+n-1),end=" ")
-        ch-=1
-    print()
-#10. a,bc,def,.....
-#error
-'''n=int(input("Enter the number: "))
-ch=ord('a')
-for i in range(1,n+1):
-    for j in range(1,i+1):
-        print(chr(ch),end=" ")
-        ch+=1
-    print()'''
-
