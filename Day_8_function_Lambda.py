@@ -22,7 +22,7 @@ print(c(7,8))'''
 
 #condition is related to any one of the argument
 #expression only one
-'''a=lambda x,y,z:x*y-z if y!=0 else 'eeror'
+'''a=lambda x,y,z:x*y-z if y!=0 else 'error'
 print(a(4,6,9))'''
 '''b=lambda x,y:x/y if y!=0 else 'cannot divide'
 print(b(6,4))
