@@ -54,7 +54,7 @@ for i in range(1,n+1):
     for j in range(1,i+1):
         print(chr(ch+j),end=" ")
     print()'''
-#7. 1,23,456,.....
+#8. 1,23,456,.....
 '''n=int(input("Enter the number: "))
 num=1
 for i in range(1,n+1):
@@ -62,7 +62,7 @@ for i in range(1,n+1):
         print(num,end=" ")
         num+=1
     print()'''
-#8. A,BC,DEF,.....
+#9. A,BC,DEF,.....
 '''n=int(input("Enter the number: "))
 ch=ord('A')
 for i in range(1,n+1):
@@ -70,7 +70,7 @@ for i in range(1,n+1):
         print(chr(ch),end=" ")
         ch+=1
     print()'''
-#9. a,bc,def,.....
+#10. a,bc,def,.....
 '''n=int(input("Enter the number: "))
 ch=ord('a')
 for i in range(1,n+1):
